@@ -2,7 +2,7 @@
 
 <img src="./img/Finder.PNG" alt="Finder-React">
 
-> Site E-Commerce para compra e venda do setor automobilístico, desenvolvido para o projeto final do programa Acelera Icarros_Tech - Gama Academy.
+> Site E-Commerce para compra e venda do setor automobilístico, desenvolvido em React para o projeto final do programa Acelera Icarros_Tech - Gama Academy.
 
 ### Ajustes e melhorias
 
@@ -25,7 +25,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## Site
 
-Se deseja visualizar o modelo do site em funcionamento <a  href="#" target="_blank">clique aqui </a>!
+Se deseja visualizar o modelo do site em funcionamento <a  href="https://finder-react.vercel.app/" target="_blank">clique aqui </a>!
 
 
 ## 🤝 Colaboradores
